@@ -9,5 +9,5 @@ Requisitos Tarea
   - Formulario de contacto
   - Que haga uso de CSS
   - Que se vea que hacemos commits, merges,..
-    - Al menos 2 versiones (TAGs)
+    - Al menos 2 versiones (TAGs) - nomenclatura vX.x
     - Al menos 2 ramas
