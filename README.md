@@ -1,6 +1,6 @@
 # curso_git
 
-### Arranque aplicación en modo debug
+### Deploy entorno de desarrollo
 
 - Ejecutar el siguiente script o comandos desde una terminal linux
 
@@ -25,6 +25,10 @@ python manage.py runserver 0.0.0.0:8000
 ```
 
 - Abrir un navegador en la dirección http://127.0.0.1:8000
+
+- Django administration:
+  - Crear superusuario: python manage.py createsuperuser
+  - http://127.0.0.1:8000/admin
 
 ### Requisitos Tarea
 
